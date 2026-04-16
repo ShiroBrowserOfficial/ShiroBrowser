@@ -26,3 +26,7 @@ Electronベースで構築された、次世代の高機能・多機能ブラウ
 
 ## ダウンロード
 右側の **[Releases]** セクションから、ShiroBrowserのインストーラーをダウンロードしてください。
+
+## Officialサイト
+以下のURLにてOfficialサイトが開けます。
+https://shirothread.net/ShiroBrowser/
