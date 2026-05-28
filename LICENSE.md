@@ -1,22 +1,22 @@
-ShiroBrowser ソフトウェアライセンス及びカスタマイズ利用規約
-本ライセンス条項（以下「本規約」という）は、Shiromaku（以下「開発者」という）が提供するソフトウェア「ShiroBrowser」（以下「本ソフトウェア」という）の利用に関して、開発者とユーザー（以下「ユーザー」という）との間に締結される契約である。本ソフトウェアのインストール、使用、またはアクセスを行うことにより、ユーザーは本規約のすべての条項に同意したものとみなされる。
+MIT License
 
-第1条（ライセンスの性質と範囲）
-開発者は、ユーザーに対し、本ソフトウェアを個人の非商用目的で使用するための非独占的かつ譲渡不能な権利を許諾する。本ソフトウェアは販売されるものではなく、本規約に基づく利用許諾の対象として提供されるものとする。
+Copyright (c) 2026 Cosmos
 
-第2条（ソースコードの開示および改変に関する規定）
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-本ソフトウェアは、その構造的および機能的完全性を維持するため、ロジックを実行するJavaScriptファイル（以下「核となるロジック」という）については、難読化または非表示措置が講じられている。ユーザーは、これらをリバースエンジニアリング、逆コンパイル、逆アセンブル、または解読を試みてはならない。
+The above copyright notice and this permission notice shall be noted in the 
+"TERMS.md" file accompanying this software.
 
-前項の規定にかかわらず、開発者はユーザーの自由なUIカスタマイズの権利を尊重し、本ソフトウェアの表示層を構成するHTMLコード（以下「UIテンプレート」という）へのアクセスおよび改変を許諾する。
-
-ユーザーが前項に基づきUIテンプレートを改変する場合、その改変および改変によって生じた表示の不整合、動作の異常、またはその他のいかなる事象についても、ユーザーが一切の責任を負うものとし、開発者は何らの技術的サポート、保証、あるいは復旧義務を負わないものとする。
-
-第3条（免責および責任の制限）
-本ソフトウェアは「現状有姿（As-Is）」にて提供される。開発者は、本ソフトウェアの機能性、適合性、あるいは改変の結果について、明示的か黙示的かを問わず一切の保証を行わない。過失の有無にかかわらず、本ソフトウェアの使用または利用不能に起因する逸失利益、直接的損害、間接的損害、付随的損害について、開発者は一切の賠償責任を負わないものとする。
-
-第4条（利用者の権利の剥奪および契約の終了）
-ユーザーが本規約のいずれかの条項に違反した場合、開発者は何らの通告なく即座に本ライセンスを終了し、本ソフトウェアの使用を差し止める権利を有する。その際、ユーザーは直ちに本ソフトウェアの実行を停止し、自身のデバイスから削除しなければならない。
-
-第5条（準拠法および紛争解決）
-本規約は、開発者の活動拠点における法令に準拠し、本規約に関するすべての紛争については、開発者が指定する裁判所を専属的合意管轄裁判所とする。
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+IN CONNECTION WITH THE SOFTWARE OR THE USE OF OTHER DEALINGS IN THE
+SOFTWARE.
