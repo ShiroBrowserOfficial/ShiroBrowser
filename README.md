@@ -31,3 +31,7 @@ Electronベースで構築された、次世代の高機能・多機能ブラウ
 ## Officialサイト
 右側のURLにてOfficialサイトが開けます。
 https://shirothread.net/ShiroBrowser/
+
+## ライセンスについて
+本ソフトウェアはMITライセンスに基づき公開されています。
+詳細な利用規約（特にUIのカスタマイズ範囲とロジックの保護について）は [TERMS.md](./TERMS.md) を確認してください。
