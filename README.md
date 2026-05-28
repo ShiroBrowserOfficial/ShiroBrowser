@@ -26,7 +26,7 @@ Electronベースで構築された、次世代の高機能・多機能ブラウ
 | **グラフィック** | OpenGL 2.0 以上対応のGPU |
 
 ## ダウンロード
-右側の **[Releases]** セクションから、ShiroBrowserのインストーラーをダウンロードしてください。
+右側の **[Release](./Release)** セクションから、ShiroBrowserのインストーラーをダウンロードしてください。
 
 ## Officialサイト
 右側のURLにてOfficialサイトが開けます。
