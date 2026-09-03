@@ -27,7 +27,7 @@ Electronベースで構築された、次世代の高機能・多機能ブラウ
 
 ## ダウンロード
 右側の **[Releases]** セクションから、ShiroBrowserのインストーラーをダウンロードしてください。
-また、ShiroBrowser.all.Setup.バージョン名.exeのダウンロードを推奨します。
+また、通常はShiroBrowser.All.Setup.バージョン名.exeのダウンロードを推奨します。
 
 ## ダウンロードに関するお知らせ
 ShiroBrowser の公式配布元は、このGitHubリポジトリのみです。
