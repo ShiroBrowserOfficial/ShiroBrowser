@@ -1,21 +1,28 @@
-MIT License
+サードパーティ製ソフトウェアに関する特記事項
 
-Copyright (c) 2026 Shiromaku
+本条項は、Shiromaku（以下「開発者」という）が提供するソフトウェア「ShiroBrowser」（以下「本ソフトウェア」という）に組み込まれている、または本ソフトウェアとともに配布される第三者所有のコンポーネントおよびオープンソースソフトウェア（以下「サードパーティ製ソフトウェア」という）の取り扱いについて定めるものである。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+第1条（ライセンスの適用および優先順位）
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+本ソフトウェアには、開発者以外の第三者が著作権を保有するサードパーティ製ソフトウェアが含まれている。
+これらのコンポーネントの利用、複製、および配布に関しては、同封の「terms.md」（ShiroBrowser ソフトウェアライセンス及びカスタマイズ利用規約）の規定にかかわらず、当該ソフトウェアに付属する固有のオープンソースライセンス条項（MIT、BSD、ISCライセンス等）が最優先で適用されるものとする。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+第2条（対象コンポーネントの一覧）
+
+本ソフトウェアが依存または使用している主なサードパーティ製ソフトウェアは以下の通りとする。それぞれの具体的な著作権表示（Copyright）およびライセンスの全文は、各モジュールのインストールフォルダ内に同梱されている「LICENSE」ファイルに準拠する。
+
+1. bcryptjs（BSD-3-Clause License）
+2. fs-extra（MIT License）
+3. graceful-fs（ISC License）
+4. jsonfile（MIT License）
+5. universalify（MIT License）
+
+第3条（免責および責任の制限）
+
+すべてのサードパーティ製ソフトウェアは、各著作権者および提供者によって「現状有姿（As-Is）」で提供されている。
+開発者、および各サードパーティ製ソフトウェアの著作権者は、これらについて明示的または黙示的を問わず、商品性、特定の目的への適合性、または第三者の権利の非侵害性に関する保証を含め、いかなる保証も行わない。
+
+また、これらの利用または利用不能によって生じた契約上の賠償責任、不法行為責任、その他の請求（直接的、間接的、付随的、特別、またはデータの損失、逸失利益等を含む）について、開発者および当該ソフトウェアの著作権者は一切の責任を負わないものとする。
+
+附則
+2026年11月5日 制定
